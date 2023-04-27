@@ -1,0 +1,35 @@
+{
+  "project":
+  [
+    {
+      "name": "JBO - Jumbo",
+      "settings":
+      {
+        "fps": "24",
+        'resolution_width': "2048",
+        "resolution_height": "868",
+        'asset_prefix': "O:/jbo_assets",
+        'anim_prefix': "O:/jbo_assets"
+      },
+      "software":
+      [
+        "blender32_jbo"
+      ]
+    },
+    {
+      "name": "TST - Test",
+      "settings":
+      {
+        "fps": "24",
+        'resolution_width': "2048",
+        "resolution_height": "868",
+        'asset_prefix': "O:/asset_test",
+        'anim_prefix': "O:/anim_test"
+      },
+      "software":
+      [
+        "blender32_tst"
+      ]
+    }
+  ]
+}
