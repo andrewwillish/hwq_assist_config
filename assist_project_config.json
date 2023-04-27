@@ -6,10 +6,10 @@
       "settings":
       {
         "fps": "24",
-        'resolution_width': "2048",
+        "resolution_width": "2048",
         "resolution_height": "868",
-        'asset_prefix': "O:/jbo_assets",
-        'anim_prefix': "O:/jbo_assets"
+        "asset_prefix": "O:/jbo_assets",
+        "anim_prefix": "O:/jbo_assets"
       },
       "software":
       [
@@ -21,10 +21,10 @@
       "settings":
       {
         "fps": "24",
-        'resolution_width': "2048",
+        "resolution_width": "2048",
         "resolution_height": "868",
-        'asset_prefix': "O:/asset_test",
-        'anim_prefix': "O:/anim_test"
+        "asset_prefix": "O:/tst_assets",
+        "anim_prefix": "O:/tst_assets"
       },
       "software":
       [
