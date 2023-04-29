@@ -14,4 +14,5 @@ set PYTHONPATH=^
 %scriptRootPath%\common_lib;^
 C:\hwqworkspace\picker_collection;^
 
+::Start
 "C:\Program Files\Blender Foundation\Blender 3.3\blender.exe" -P "%mypath%\JBO\startup.py"
