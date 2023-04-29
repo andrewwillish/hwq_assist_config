@@ -13,7 +13,8 @@
       },
       "software":
       [
-        "blender32_jbo"
+        "blender32_jbo",
+        "maya2018_jbo"
       ]
     },
     {
