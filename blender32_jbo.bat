@@ -11,6 +11,7 @@ set PYTHONPATH=^
 %scriptRootPath%\JBO\REGIS_shot_manager_JBO;^
 %scriptRootPath%\JBO\REGIS_previewer_JBO;^
 %scriptRootPath%\JBO\TOOLS_stepSnap_JBO;^
+%scriptRootPath%\JBO\TOOLS_camera_noise_applicator;^
 %scriptRootPath%\common_lib;^
 C:\hwqworkspace\picker_collection;^
 
