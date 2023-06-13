@@ -13,7 +13,7 @@ set PYTHONPATH=^
 %scriptRootPath%\JBO\TOOLS_stepSnap_JBO;^
 %scriptRootPath%\JBO\TOOLS_camera_noise_applicator;^
 %scriptRootPath%\common_lib;^
-C:\hwqworkspace\picker_collection;^
+C:\hwqworkspace\picker_collection;
 
 set LIC_CHECKER_PATH = %scriptRootPath%\common_lib\SEER_license_checker_desktop.exe;
 
