@@ -15,7 +15,7 @@ set PYTHONPATH=^
 %scriptRootPath%\common_lib;^
 C:\hwqworkspace\picker_collection;
 
-set LIC_CHECKER_PATH = %scriptRootPath%\common_lib\SEER_license_checker_desktop.exe;
+set LIC_CHECKER_PATH = "%scriptRootPath%\common_lib\SEER_license_checker_desktop.exe"
 
 ::Start
 "C:\Program Files\Blender Foundation\Blender 3.3\blender.exe"
