@@ -17,5 +17,7 @@ C:\hwqworkspace\picker_collection;
 
 set LIC_CHECKER_PATH=%scriptRootPath%\common_lib\SEER_license_checker_desktop.exe
 
+set QT_PLUGIN_PATH=%scriptRootPath%\common_lib\platforms
+
 ::Start
 "C:\Program Files\Blender Foundation\Blender 3.3\blender.exe"
